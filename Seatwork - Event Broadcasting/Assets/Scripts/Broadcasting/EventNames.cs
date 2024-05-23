@@ -50,6 +50,13 @@ public class EventNames {
 		public const string ON_FIRST_SCAN = "FIRST_TARGET_SCAN";
 		public const string ON_FINAL_SCAN = "ON_FINAL_SCAN";
 	}
+
+	public class XX22_Events
+	{
+        public const string ON_SPAWN_BALLS_BUTTON_PRESSED = "ON_SPAWN_BALLS_BUTTON_PRESSED";
+        public const string ON_SPAWN_CUBES_BUTTON_PRESSED = "ON_SPAWN_CUBES_BUTTON_PRESSED";
+        public const string ON_MAIN_MENU_BUTTON_PRESSED = "ON_MAIN_MENU_BUTTON_PRESSED";
+    }
 }
 
 
